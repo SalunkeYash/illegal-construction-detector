@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.93, 18.49], [73.95, 18.49], [73.95, 18.51], [73.93, 18.51], [73.93, 18.49]]]
+      },
+      "properties": {
+        "name": "Hadapsar Residential Zone A",
+        "zone_type": "Residential",
+        "is_approved": true,
+        "permit_number": "PMC/HAD/RES/2024/001",
+        "max_allowed_sqm": 4500,
+        "owner_name": "PMC Hadapsar Ward"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.95, 18.50], [73.97, 18.50], [73.97, 18.52], [73.95, 18.52], [73.95, 18.50]]]
+      },
+      "properties": {
+        "name": "Hadapsar Commercial Zone",
+        "zone_type": "Commercial",
+        "is_approved": true,
+        "permit_number": "PMC/HAD/COM/2024/002",
+        "max_allowed_sqm": 8000,
+        "owner_name": "PMC Hadapsar Commercial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.77, 18.55], [73.79, 18.55], [73.79, 18.57], [73.77, 18.57], [73.77, 18.55]]]
+      },
+      "properties": {
+        "name": "Baner Residential Zone",
+        "zone_type": "Residential",
+        "is_approved": true,
+        "permit_number": "PMC/BAN/RES/2024/003",
+        "max_allowed_sqm": 5000,
+        "owner_name": "PMC Baner Ward"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.79, 18.56], [73.81, 18.56], [73.81, 18.58], [73.79, 18.58], [73.79, 18.56]]]
+      },
+      "properties": {
+        "name": "Baner Green Belt",
+        "zone_type": "Green",
+        "is_approved": false,
+        "permit_number": "",
+        "max_allowed_sqm": 0,
+        "owner_name": "Forest Department Pune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.81, 18.49], [73.83, 18.49], [73.83, 18.51], [73.81, 18.51], [73.81, 18.49]]]
+      },
+      "properties": {
+        "name": "Kothrud Residential Zone",
+        "zone_type": "Residential",
+        "is_approved": true,
+        "permit_number": "PMC/KOT/RES/2024/005",
+        "max_allowed_sqm": 4000,
+        "owner_name": "PMC Kothrud Ward"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.83, 18.50], [73.85, 18.50], [73.85, 18.52], [73.83, 18.52], [73.83, 18.50]]]
+      },
+      "properties": {
+        "name": "Kothrud Commercial Hub",
+        "zone_type": "Commercial",
+        "is_approved": true,
+        "permit_number": "PMC/KOT/COM/2024/006",
+        "max_allowed_sqm": 7000,
+        "owner_name": "PMC Kothrud Commercial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.74, 18.58], [73.76, 18.58], [73.76, 18.60], [73.74, 18.60], [73.74, 18.58]]]
+      },
+      "properties": {
+        "name": "Wakad Residential Zone",
+        "zone_type": "Residential",
+        "is_approved": true,
+        "permit_number": "PCMC/WAK/RES/2024/007",
+        "max_allowed_sqm": 5500,
+        "owner_name": "PCMC Wakad Ward"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.76, 18.59], [73.78, 18.59], [73.78, 18.61], [73.76, 18.61], [73.76, 18.59]]]
+      },
+      "properties": {
+        "name": "Wakad Restricted Military Zone",
+        "zone_type": "Restricted",
+        "is_approved": false,
+        "permit_number": "",
+        "max_allowed_sqm": 0,
+        "owner_name": "Ministry of Defence"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.79, 18.61], [73.81, 18.61], [73.81, 18.63], [73.79, 18.63], [73.79, 18.61]]]
+      },
+      "properties": {
+        "name": "Pimpri Industrial Zone",
+        "zone_type": "Commercial",
+        "is_approved": true,
+        "permit_number": "PCMC/PIM/IND/2024/009",
+        "max_allowed_sqm": 10000,
+        "owner_name": "PCMC Pimpri Industrial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.81, 18.62], [73.83, 18.62], [73.83, 18.64], [73.81, 18.64], [73.81, 18.62]]]
+      },
+      "properties": {
+        "name": "Pimpri Residential Zone",
+        "zone_type": "Residential",
+        "is_approved": true,
+        "permit_number": "PCMC/PIM/RES/2024/010",
+        "max_allowed_sqm": 4500,
+        "owner_name": "PCMC Pimpri Ward"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.85, 18.52], [73.87, 18.52], [73.87, 18.54], [73.85, 18.54], [73.85, 18.52]]]
+      },
+      "properties": {
+        "name": "Pune Cantonment Green Zone",
+        "zone_type": "Green",
+        "is_approved": false,
+        "permit_number": "",
+        "max_allowed_sqm": 0,
+        "owner_name": "Cantonment Board Pune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.87, 18.51], [73.89, 18.51], [73.89, 18.53], [73.87, 18.53], [73.87, 18.51]]]
+      },
+      "properties": {
+        "name": "Pune Airport Restricted Zone",
+        "zone_type": "Restricted",
+        "is_approved": false,
+        "permit_number": "",
+        "max_allowed_sqm": 0,
+        "owner_name": "Airports Authority of India"
+      }
+    }
+  ]
+}
