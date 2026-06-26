@@ -44,5 +44,4 @@ npm run start
 
 ### Demo Credentials
 - **Admin:** `admin` / `Admin@123`
-- **Officer:** `officer` / `Officer@123`
-- **Citizen:** `citizen` / `Citizen@123`
+
